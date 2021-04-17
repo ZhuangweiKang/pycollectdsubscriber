@@ -1,5 +1,5 @@
 {
-  "host": "127.0.0.1",
+  "host": "rabbitmq-server",
   "port": "5672",
   "user": "indices_user",
   "password": "indices_manager",
